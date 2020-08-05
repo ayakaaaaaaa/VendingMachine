@@ -14,6 +14,7 @@ namespace VendingMachine
 	class Program
 	{
 		// コメント
+		//　バグなおした
 		// 1
 		// 2
 		static void Main(string[] args)
