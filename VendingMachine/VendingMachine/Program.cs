@@ -13,6 +13,7 @@ namespace VendingMachine
 {
 	class Program
 	{
+		// コメント
 		static void Main(string[] args)
 		{
 			IDrink drink;
