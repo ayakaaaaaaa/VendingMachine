@@ -14,6 +14,7 @@ namespace VendingMachine
 	class Program
 	{
 		// コメント
+		//　バグなおした
 		static void Main(string[] args)
 		{
 			IDrink drink;
